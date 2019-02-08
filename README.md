@@ -1,5 +1,7 @@
 # starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amcardle/starter.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 npm install
